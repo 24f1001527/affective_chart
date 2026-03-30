@@ -1,7 +1,7 @@
 {
-  "prompt": "A minimalist, high-end editorial photograph. An empty, darkened auditorium contains exactly eight school desks arranged in a precise 2-by-4 rectangular grid. Seven desks are made of solid, polished dark wood. The eighth desk in the bottom corner is made of melting, translucent ice, with small puddles of water beneath it. Cold, cinematic overhead spotlighting. Sharp focus, symmetrical composition, 8k resolution. ABSOLUTELY NO TEXT, NO LOGOS, NO BRAND NAMES, NO WORDS. Shot on 35mm film.",
-  "model": "Ideogram 2.0",
+  "prompt": "A high-end editorial photograph for a magazine. A dark, empty concrete school hallway contains exactly eight school desks arranged in a perfect, symmetrical 2-by-4 rectangular grid (two rows of four). Seven desks are normal, warm polished wood. The eighth desk in the bottom right corner is painted bright hazard-sign yellow and is completely shattered into sharp, jagged pieces. A single cold overhead spotlight hits only the shattered yellow desk. 8k resolution, cinematic lighting, no people, no text, no charts. TOTAL DESK COUNT MUST BE EXACTLY EIGHT.",
+  "model": "DALL·E 3",
   "dataset_name": "CDC Youth Risk Behavior Survey (YRBS) Data Summary & Trends Report: 2013–2023",
   "dataset_url": "https://www.cdc.gov/healthyyouth/data/yrbs/pdf/YRBS_Data-Summary-Trends-Report.pdf",
-  "insight": "Using a precise 2x4 grid of 8 desks, the single melting ice desk represents the 13% of students (approx. 1-in-8) who feel too unsafe to attend school."
+  "insight": "By using a precise 2x4 grid of 8 desks where exactly one is painted hazard-yellow and shattered, I am visualizing the 13% of students (approx. 1-in-8) who missed school because they felt unsafe."
 }
